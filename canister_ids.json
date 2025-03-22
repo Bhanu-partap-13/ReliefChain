@@ -1,0 +1,15 @@
+{
+  "donation_management": {
+    "ic": "vkpz7-3yaaa-aaaaa-qagjq-cai"
+  },
+  "identity_verification": {
+    "ic": "v7iis-2qaaa-aaaaa-qagka-cai"
+  },
+  "reliefchain_backend": {},
+  "reliefchain_frontend": {
+    "ic": "vrkf2-baaaa-aaaaa-qagla-cai"
+  },
+  "resource_allocation": {
+    "ic": "vwldo-myaaa-aaaaa-qaglq-cai"
+  }
+}

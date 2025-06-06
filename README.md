@@ -2,6 +2,18 @@
 ## Work  In Progress
 Welcome to your new `reliefchain` project and to the Internet Computer development community. By default, creating a new project adds this README and some template files to your project directory. You can edit these template files to customize your project and to include your own code to speed up the development cycle.
 ***
+## Live Preview
+## Frontend canister via browser: https://vrkf2-baaaa-aaaaa-qagla-cai.icp0.io/
+ ***
+  Backend canister via Candid interface:
+  ***
+    donation_management:   https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=vkpz7-3yaaa-aaaaa-qagjq-cai
+  ***
+    identity_verification: https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=v7iis-2qaaa-aaaaa-qagka-cai
+  ***
+    reliefchain_backend:   https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=vyjog-xiaaa-aaaaa-qagkq-cai
+  ***
+    resource_allocation:   https://a4gq6-oaaaa-aaaab-qaa4q-cai.raw.icp0.io/?id=vwldo-myaaa-aaaaa-qaglq-cai
 ## Demo Video
 - https://drive.google.com/drive/folders/1HiyB2jXxusMds386aD7v14xfOrTuoA_G
 
